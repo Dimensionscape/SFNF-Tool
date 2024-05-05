@@ -4,4 +4,4 @@ Binary is much faster for parsing saved data into objects at runtime.
 
 Use this command line tool to convert your json files to a custom  binary format. 
 
-**Only supported on @SomeGuyWhoLovesCodes in progress Zenith Engine for now.**
+**Only supported on Windows OS for @SomeGuyWhoLovesCodes in progress Zenith Engine for now.**
